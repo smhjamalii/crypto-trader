@@ -1,0 +1,14 @@
+description = 'This is a training play ground for Kafka, MongoDB, CICD, Docker and K8S'
+allprojects {
+
+    group = 'encoding'
+
+    repositories {
+        mavenCentral()
+    }
+}
+
+subprojects {
+    apply plugin: 'java'
+
+}
