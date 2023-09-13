@@ -1,0 +1,1 @@
+This is a training play ground for Kafka, MongoDB, CICD, Docker and K8S
